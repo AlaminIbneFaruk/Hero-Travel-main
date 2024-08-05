@@ -36,7 +36,7 @@ img{
   width:60%;
 }
 .hero{
-  background: url('../Images/Group13.png'); 
+  background: url('Images/Group13.png'); 
   background-repeat: no-repeat;
   /* min-height: max-content; */
   background-size:cover;
