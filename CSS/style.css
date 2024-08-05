@@ -12,9 +12,7 @@ html, body{
   height:100%;
   padding: 1em;
 }
-img{
-  /* width:100%; */
-}
+
 .flex{
   display: flex;
   justify-content: space-between;
@@ -52,4 +50,3 @@ img{
   width:10%;
   max-height:fit-content;
 }
-  
