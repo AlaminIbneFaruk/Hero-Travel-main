@@ -34,7 +34,7 @@ html, body{
   width:60%;
 }
 .hero{
-  background: url(Images/Group13.png); 
+  background: url(../Images/Group13.png); 
   background-repeat: no-repeat;
   background-size:cover;
   background-position: center;
